@@ -1,5 +1,4 @@
-#include <vector>
-using namespace std;
+// 题目链接：https://leetcode.cn/problems/binary-search/
 
 /**
  * @brief 二分查找（左闭右闭区间 [left, right] 版本）
